@@ -1,0 +1,3 @@
+play chess
+play hockey
+play guitar
